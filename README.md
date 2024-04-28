@@ -143,7 +143,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 
 Please ensure to follow the following steps as standard practice to contribute:
 
-1. Fork it ( https://github.com/rubyeffect/faceauth/fork )
+1. Fork it ([https://github.com/M-S-D-P/findface-master/fork](https://github.com/M-S-D-P/findface-master/fork))
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
@@ -158,4 +158,3 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 Sandeep M
 
-**Contributions:**
