@@ -1,0 +1,2 @@
+#Gem dependencies
+require 'findface'
